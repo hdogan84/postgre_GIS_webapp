@@ -12,6 +12,7 @@ Beforehand, create the newtwork prescribed inside the docker-compose file. I.e. 
 ```bash
 docker network create app_network
 docker-compose up --build -d 
+```
 
 ### Prerequisites
 
