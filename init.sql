@@ -22,6 +22,8 @@ CREATE TABLE locations (
 INSERT INTO country (name, code) VALUES
     ('United States', 'US'),
     ('United Kingdom', 'GB'),
+    ('Germany', 'DE'),
+    ('Netherlands', 'NL'),
     ('France', 'FR');
 
 -- Insert sample locations
@@ -32,5 +34,7 @@ INSERT INTO locations (name, population, elevation, geom, country_id) VALUES
         (SELECT id FROM country WHERE code = 'US')),
     ('London', 8982000, 11, ST_GeomFromText('POINT(-0.1276 51.5074)', 4326), 
         (SELECT id FROM country WHERE code = 'GB')),
+    ('Berlin', 3824000, 10, ST_GeomFromText('POINT(13.4049 52.5200)', 4326), 
+        (SELECT id FROM country WHERE code = 'DE')),
     ('Paris', 2161000, 35, ST_GeomFromText('POINT(2.3522 48.8566)', 4326), 
         (SELECT id FROM country WHERE code = 'FR'));
