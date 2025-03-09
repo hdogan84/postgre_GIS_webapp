@@ -1,0 +1,80 @@
+2025-03-09 10:14:52,224 - INFO - Fetcing function
+2025-03-09 10:14:55,602 - INFO - Fetcing function
+2025-03-09 10:14:56,726 - INFO - Fetcing function
+2025-03-09 10:15:15,203 - INFO - Fetcing function
+2025-03-09 10:15:18,228 - INFO - Fetcing function
+2025-03-09 10:17:11,527 - INFO - Fetcing function
+2025-03-09 10:17:12,543 - INFO - Fetcing function
+2025-03-09 10:18:24,889 - INFO - Fetcing function
+2025-03-09 10:25:38,079 - INFO - Fetcing function
+2025-03-09 10:26:12,260 - INFO - location data is {'name': 'Berlin', 'population': 3678932, 'elevation': 12, 'geom': 'POINT(2.006 40.7128)'}
+2025-03-09 10:29:11,971 - INFO - location data is {'name': 'Berlin', 'population': 3678932, 'elevation': 12, 'geom': 'POINT(2.006 40.7128)'}
+2025-03-09 10:29:11,971 - INFO - After pydantic class, Name: Berlin
+2025-03-09 10:29:11,971 - INFO - After pydantic class, Elevation: 12.0
+2025-03-09 10:29:11,971 - INFO - After pydantic class, Geom: POINT(2.006 40.7128)
+2025-03-09 10:30:46,075 - INFO - Fetcing function
+2025-03-09 10:30:48,822 - INFO - location data is {'name': 'Berlin', 'population': 3678932, 'elevation': 12, 'geom': 'POINT(2.006 40.7128)'}
+2025-03-09 10:30:48,822 - INFO - After pydantic class, Name: Berlin
+2025-03-09 10:30:48,822 - INFO - After pydantic class, Elevation: 12.0
+2025-03-09 10:30:48,822 - INFO - After pydantic class, Geom: <class 'str'>
+2025-03-09 10:34:12,375 - INFO - Fetcing function
+2025-03-09 10:34:14,165 - INFO - location data is {'name': 'Berlin', 'population': 3678932, 'elevation': 12, 'geom': 'POINT(2.006 40.7128)'}
+2025-03-09 10:34:14,165 - INFO - After pydantic class, Name: Berlin
+2025-03-09 10:34:14,165 - INFO - After pydantic class, Elevation: 12.0
+2025-03-09 10:34:14,165 - INFO - After pydantic class, Geom: <class 'str'>
+2025-03-09 10:43:12,085 - INFO - Fetcing function
+2025-03-09 10:43:13,455 - INFO - location data is {'name': 'Berlin', 'population': 3678932, 'elevation': 12, 'geom': 'POINT(2.006 40.7128)'}
+2025-03-09 10:43:13,456 - INFO - After pydantic class, Geom: <class 'geoalchemy2.functions.ST_GeomFromText'>
+2025-03-09 10:45:19,226 - INFO - Fetcing function
+2025-03-09 10:45:20,664 - INFO - location data is {'name': 'Berlin', 'population': 3678932, 'elevation': 12, 'geom': 'POINT(2.006 40.7128)'}
+2025-03-09 10:47:06,932 - INFO - Fetcing function
+2025-03-09 10:47:08,507 - INFO - location data is {'name': 'Berlin', 'population': 3678932, 'elevation': 12, 'geom': 'POINT(2.006 40.7128)'}
+2025-03-09 10:47:08,508 - INFO - After pydantic class, Geom: <class 'geoalchemy2.functions.ST_GeomFromText'>
+2025-03-09 11:02:43,393 - INFO - Fetcing function
+2025-03-09 11:02:45,286 - INFO - location data is {'name': 'Berlin', 'population': 3678932, 'elevation': 12, 'geom': 'POINT(2.006 40.7128)'}
+2025-03-09 11:02:45,287 - INFO - After pydantic class, Geom: <class 'geoalchemy2.functions.ST_GeomFromText'>
+2025-03-09 11:02:45,287 - INFO - created db_location
+2025-03-09 11:10:21,268 - INFO - Fetcing function
+2025-03-09 11:10:23,253 - INFO - location data is {'name': 'Berlin', 'population': 3678932, 'elevation': 12, 'geom': 'POINT(2.006 40.7128)'}
+2025-03-09 11:15:11,168 - INFO - Fetcing function
+2025-03-09 11:15:13,570 - INFO - location data is {'name': 'Berlin', 'population': 3678932, 'elevation': 12, 'geom': 'POINT(2.006 40.7128)'}
+2025-03-09 11:15:13,570 - INFO - created db_location
+2025-03-09 11:15:58,435 - INFO - Fetcing function
+2025-03-09 11:16:00,039 - INFO - location data is {'name': 'Berlin', 'population': 3678932, 'elevation': 12, 'geom': 'POINT(2.006 40.7128)'}
+2025-03-09 11:16:00,039 - INFO - created db_location
+2025-03-09 11:17:57,084 - INFO - Fetcing function
+2025-03-09 11:17:58,527 - INFO - location data is {'name': 'Berlin', 'population': 3678932, 'elevation': 12, 'geom': 'POINT(2.006 40.7128)'}
+2025-03-09 11:17:58,527 - INFO - created db_location
+2025-03-09 11:18:01,663 - INFO - Fetcing function
+2025-03-09 11:18:02,893 - INFO - Fetcing function
+2025-03-09 11:19:07,094 - INFO - location data is {'name': 'Ams', 'population': 1233, 'elevation': 1, 'geom': 'POINT(2.006 40.7)'}
+2025-03-09 11:19:07,094 - INFO - created db_location
+2025-03-09 11:19:09,135 - INFO - Fetcing function
+2025-03-09 11:19:10,667 - INFO - Fetcing function
+2025-03-09 11:19:12,309 - INFO - Fetcing function
+2025-03-09 11:19:21,817 - INFO - Fetcing function
+2025-03-09 11:19:24,927 - INFO - Fetcing function
+2025-03-09 11:21:02,186 - INFO - Fetcing function
+2025-03-09 11:21:28,435 - INFO - Fetcing function
+2025-03-09 11:23:20,815 - INFO - Fetcing function
+2025-03-09 11:24:46,753 - INFO - Fetcing function
+2025-03-09 11:25:15,763 - INFO - location data is {'name': 'jasj', 'population': 2, 'elevation': 8, 'geom': 'askkds'}
+2025-03-09 11:25:15,764 - INFO - created db_location
+2025-03-09 11:25:15,774 - INFO - added db_location
+2025-03-09 11:26:14,645 - INFO - Fetcing function
+2025-03-09 11:26:16,191 - INFO - location data is {'name': 'jasj', 'population': 2, 'elevation': 8, 'geom': 'askkds'}
+2025-03-09 11:26:16,192 - INFO - created db_location
+2025-03-09 11:26:16,198 - INFO - added db_location
+2025-03-09 11:26:18,762 - INFO - Fetcing function
+2025-03-09 11:26:20,467 - INFO - Fetcing function
+2025-03-09 11:26:33,827 - INFO - Fetcing function
+2025-03-09 11:27:16,902 - INFO - Fetcing function
+2025-03-09 11:27:36,456 - INFO - location data is {'name': 'Ams', 'population': 888, 'elevation': 76, 'geom': 'asda'}
+2025-03-09 11:27:36,457 - INFO - created db_location
+2025-03-09 11:27:36,474 - INFO - added db_location
+2025-03-09 11:27:38,581 - INFO - Fetcing function
+2025-03-09 11:30:06,943 - INFO - Fetcing function
+2025-03-09 11:30:44,913 - INFO - Received location data: {'name': 'Ams', 'population': 2919239, 'elevation': 14, 'geom': 'POINT(2.343 50.23)'}
+2025-03-09 11:30:44,915 - INFO - created db_location
+2025-03-09 11:30:44,929 - INFO - added db_location
+2025-03-09 11:30:46,965 - INFO - Fetcing function
